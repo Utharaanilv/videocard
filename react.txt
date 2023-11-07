@@ -1,0 +1,27 @@
+  REACT---js library(front end development)
+  -------------------------------------------
+
+  Basic commands
+
+  -to create project:npx create-react-app projectname
+  -to run project---npm start
+  -to install react material: (react material-get started-installation-default installation(copy)
+       npm install @mui/material @emotion/react @emotion/styled )
+  -to build a project--npm run build
+  -to install react-bootstrap : npm install react-bootstrap bootstrap
+  -to install react icons--npm i react-feather
+
+
+
+  BASIC CONCEPTS
+
+  -resuable component based apporach
+  -jsx:javascript
+
+
+
+
+
+props:props is used to share data betwwen parent and child
+
+conditional rendering
